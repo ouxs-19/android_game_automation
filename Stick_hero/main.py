@@ -12,7 +12,7 @@ if len(devices)==0:
 	exit()
 my_device=devices[0]
 count = 1 
-eat_fruit = False #set this to True if you want to eat frui but it doesn't work well yet
+eat_fruit = False #set this to True if you want to eat fruit but it doesn't work well yet
 while True : 
 	situaton=result = my_device.screencap()
 	start_check=False
