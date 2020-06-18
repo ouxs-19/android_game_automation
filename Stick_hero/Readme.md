@@ -1,6 +1,6 @@
 This a python script that automate stich hero game on android and this is what you will need to do :
 
-1] pip install pure-python-adb
+1] pip install pure-python-adb numpy Pillow
 
 2] Download adb 
 
